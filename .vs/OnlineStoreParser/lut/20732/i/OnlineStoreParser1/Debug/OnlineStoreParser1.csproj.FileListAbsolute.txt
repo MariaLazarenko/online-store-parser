@@ -1,0 +1,8 @@
+E:\App\.vs\OnlineStoreParser\lut\0\b\OnlineStoreParser1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\App\.vs\OnlineStoreParser\lut\0\b\OnlineStoreParser1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\App\.vs\OnlineStoreParser\lut\0\b\OnlineStoreParser1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\App\.vs\OnlineStoreParser\lut\0\b\OnlineStoreParser1\bin\Debug\OnlineStoreParser1.dll
+E:\App\.vs\OnlineStoreParser\lut\0\i\OnlineStoreParser1\Debug\OnlineStoreParser1.csprojAssemblyReference.cache
+E:\App\.vs\OnlineStoreParser\lut\0\i\OnlineStoreParser1\Debug\OnlineStoreParser1.csproj.CoreCompileInputs.cache
+E:\App\.vs\OnlineStoreParser\lut\0\i\OnlineStoreParser1\Debug\OnlineStoreParser1.csproj.CopyComplete
+E:\App\.vs\OnlineStoreParser\lut\0\i\OnlineStoreParser1\Debug\OnlineStoreParser1.dll

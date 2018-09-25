@@ -1,0 +1,7 @@
+E:\App\.vs\OnlineStoreParser\lut\0\i\OnlineStoreParser\Debug\OnlineStoreParser.csproj.CoreCompileInputs.cache
+E:\App\.vs\OnlineStoreParser\lut\0\b\OnlineStoreParser\bin\ApplicationInsights.config
+E:\App\.vs\OnlineStoreParser\lut\0\b\OnlineStoreParser\bin\OnlineStoreParser.dll.config
+E:\App\.vs\OnlineStoreParser\lut\0\b\OnlineStoreParser\bin\OnlineStoreParser.dll
+E:\App\.vs\OnlineStoreParser\lut\0\i\OnlineStoreParser\Debug\OnlineStoreParser.csprojAssemblyReference.cache
+E:\App\.vs\OnlineStoreParser\lut\0\i\OnlineStoreParser\Debug\OnlineStoreParser.csproj.CopyComplete
+E:\App\.vs\OnlineStoreParser\lut\0\i\OnlineStoreParser\Debug\OnlineStoreParser.dll
